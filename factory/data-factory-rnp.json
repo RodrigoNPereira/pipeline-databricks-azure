@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-rnp",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ae415b2-0f29-4340-8f0d-51d226bdb94a",
+		"tenantId": "5fc06c3b-f3e4-4c55-adf5-d46ec1636e51"
+	}
+}
